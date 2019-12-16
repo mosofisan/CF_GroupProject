@@ -9,9 +9,7 @@ body{
 
   background-color: black;
 }
-
-.carousel-item active{
-
-  margin-left: 400px;
-  margin-right: 200px;
+.carousel-item img {
+  width: 100%;
+  
 }

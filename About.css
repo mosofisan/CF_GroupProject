@@ -1,10 +1,23 @@
-body{
+body {
 
   background-color: black;
 }
 
-title{
+h1 {
+  text-align: center;
+  color: red;
+  padding-top: 50px;
+
+  /* margin-left: 400px;
+  margin-right: 400px; */
+}
+
+.AboutParagraph {
+  text-align: center;
+  color: white;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 100px;
 
 
-  margin: 400px;
 }
