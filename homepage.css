@@ -1,6 +1,17 @@
 .titleimage{
 
   margin-top:50px;
-  margin-left:300px;
+  margin-left:450px;
+  margin-right: 300px;
+}
+
+body{
+
+  background-color: black;
+}
+
+.carousel-item active{
+
+  margin-left: 400px;
   margin-right: 200px;
 }
