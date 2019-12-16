@@ -11,5 +11,11 @@ body{
 }
 .carousel-item img {
   width: 100%;
-  
+
+}
+
+.btn btn-primary{
+
+colour:red;
+
 }
